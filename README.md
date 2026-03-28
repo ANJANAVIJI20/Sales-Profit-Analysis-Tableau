@@ -1,10 +1,18 @@
-# 📊 Sales & Profit Performance Analysis Dashboard
+# 📊 Tableau Sales & Profit Analysis Dashboard | Sample Superstore Dataset
 
 ## 📌 Project Overview
-This project presents a **Sales & Profit Performance Analysis Dashboard** built using Tableau.  
+This project presents an interactive **Sales & Profit Performance Analysis Dashboard** built using Tableau.  
 The goal of this analysis is to identify key business insights from retail sales data, including sales trends, regional performance, customer segment contribution, and product category profitability.
 
 The dashboard helps businesses understand **which regions, segments, and products drive revenue and profit**, enabling better strategic decision-making.
+
+---
+
+## 📊 Business Problem
+
+Retail businesses need to understand which regions, products, and customer segments generate the highest sales and profit.
+
+This dashboard helps identify performance trends and supports data-driven business decisions.
 
 ---
 
@@ -43,7 +51,8 @@ This chart compares total sales generated in each region.
 - Tableau – Data Visualization & Dashboard Creation
 - Excel – Data Source
 - Data Analysis & Data Storytelling
-
+- Business Intelligence
+  
 ---
 
 ## 📊 Dashboard Features
@@ -63,18 +72,78 @@ This chart compares total sales generated in each region.
 ## 🚀 Key Skills Demonstrated
 - Data Visualization
 - Business Data Analysis
-- Dashboard Design
+- Dashboard Development
 - Data Storytelling
 - Analytical Thinking
 
 ---
 
 ## 📁 Dataset
-Sample Superstore Dataset used for sales and profit analysis.
+
+This project uses the Sample Superstore dataset to analyze sales and profit performance across regions, categories, and customer segments.
+
+The dataset contains information about:
+
+- Order ID
+- Order Date
+- Ship Date
+- Sales
+- Profit
+- Region
+- State
+- Category
+- Sub-Category
+- Customer Segment
+
+You can download it here:
+
+[Download Dataset](Sample_Superstore.xlsx)
+
+---
+
+## 🔍 Key Business Insights
+
+- The Consumer segment contributes the highest share of sales and profit.
+
+- The West region generates the highest revenue compared to other regions.
+
+- Technology category shows higher profitability compared to Furniture and Office Supplies.
+
+- Some high sales orders generate low profit due to high discounts.
+
+---
+
+## 📁 Project Files
+
+- Tableau Dashboard File (.twbx)
+- Dataset (Excel)
+- Dashboard Screenshot
+- README Documentation
+
+---
+
+## 📂 Repository Structure
+
+Sales-Profit-Analysis
+│
+├── Sample_Superstore.xlsx
+├── Superstore_Dashboard.twbx
+├── dashboard.png
+└── README.md
 
 ---
 
 ## 📌 Author
+
 **Anjana V Aju**
 
-Aspiring Data Analyst skilled in **SQL, Python, Tableau, Power BI,Numpy and Pandas**, passionate about transforming data into actionable insights.
+Aspiring Data Analyst with skills in:
+- SQL
+- Python
+- Tableau
+- Power BI
+- Excel
+- Machine Learning
+- NumPy & Pandas
+
+Interested in transforming data into actionable business insights.
