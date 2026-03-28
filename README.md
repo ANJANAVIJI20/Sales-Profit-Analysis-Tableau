@@ -55,7 +55,8 @@ This chart compares total sales generated in each region.
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+
+![Dashboard](dashboard.png)
 
 ---
 
